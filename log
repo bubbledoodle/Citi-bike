@@ -4,3 +4,6 @@ git reset
 git folder
 
 modify README.md
+
+set up jupyter notebook server, expose to a public IP, set up passwords, SSL certificate, key. disabled browser
+write a shell run jupyter background
