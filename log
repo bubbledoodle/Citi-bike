@@ -7,3 +7,5 @@ modify README.md
 
 set up jupyter notebook server, expose to a public IP, set up passwords, SSL certificate, key. disabled browser
 write a shell run jupyter background
+
+Arduino fire up: wirelink, compile, load, select communication port, chip select, RFC
